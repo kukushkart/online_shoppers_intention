@@ -75,7 +75,6 @@
 Ноутбук скачивает набор с Kaggle через `kagglehub`; копия файла также лежит в `data/online_shoppers_intention.csv`. Источники:
 
 - Kaggle: https://www.kaggle.com/datasets/imakash3011/online-shoppers-purchasing-intention-dataset
-- UCI Machine Learning Repository: https://archive.ics.uci.edu/dataset/468/online+shoppers+purchasing+intention+dataset
 
 ## Как запустить
 
